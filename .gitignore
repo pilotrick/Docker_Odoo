@@ -5,8 +5,6 @@ addons-custom-local/
 *.pyc
 .user_data_uid_*
 chromedriver_*
-config/odoo.conf
-config/*.odoo.conf
 .venv
 xml_state.py
 nginx/nginx.conf
